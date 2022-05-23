@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84e03dd5-5cc2-482d-8547-0b59e84413fa": {
+      "ProjectGuid": "84e03dd5-5cc2-482d-8547-0b59e84413fa",
+      "DisplayName": "AquaWater.Data",
+      "ColorIndex": 0
+    },
+    "0731bf8d-8115-45d3-acf2-03204823879e": {
+      "ProjectGuid": "0731bf8d-8115-45d3-acf2-03204823879e",
+      "DisplayName": "AquaWater.Api",
+      "ColorIndex": 1
+    },
+    "f8bd61fd-6d35-42eb-b447-789a495ec9dd": {
+      "ProjectGuid": "f8bd61fd-6d35-42eb-b447-789a495ec9dd",
+      "DisplayName": "AquaWater.BusinessLogic",
+      "ColorIndex": 2
+    },
+    "2f0d54fb-3db7-4bbb-ab8e-6877fd16583e": {
+      "ProjectGuid": "2f0d54fb-3db7-4bbb-ab8e-6877fd16583e",
+      "DisplayName": "AquaWater.Dto",
+      "ColorIndex": 3
+    },
+    "eca41b9e-a95e-4ff8-8f54-7650bfa7220d": {
+      "ProjectGuid": "eca41b9e-a95e-4ff8-8f54-7650bfa7220d",
+      "DisplayName": "AquaWater.Domain",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "209239d9-162a-4bd1-80b3-f5b8813814ab": {
+      "ProjectGuid": "209239d9-162a-4bd1-80b3-f5b8813814ab",
+      "DisplayName": "AquaWater.Test",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
